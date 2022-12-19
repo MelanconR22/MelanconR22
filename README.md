@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi, My name is Randy!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <!--
 **MelanconR22/MelanconR22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Thanks for stopping by!  Here is a little bit of info about me:
 
 Here are some ideas to get you started:
 
