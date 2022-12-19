@@ -1,5 +1,12 @@
 ## Hi, My name is Randy!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+I am a recent graduate of a Data Analytics Bootcamp through the University of Kansas.  I am using this space to showcase the projects worked on during the bootcamp.
+
+## A little info about me:
+
+:necktie: Looking to break into Data Analytics </br>
+:golf: PGA Certified Golf Professional
+
 <!--
 **MelanconR22/MelanconR22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
