@@ -4,8 +4,16 @@ I am a recent graduate of a Data Analytics Bootcamp through the University of Ka
 
 ## A little info about me:
 
-:necktie: Looking to break into Data Analytics </br>
-:golf: PGA Certified Golf Professional
+### :necktie: Looking for first role in Data Analytics </br>
+:golfing_man: PGA Certified Golf Professional </br>
+:house_with_garden: Mortgage Underwriter </br>
+:bar_chart: Data Storyteller
+
+### 👨‍🎓Education:
+* Data Analytics Certificate - University of Kansas
+* Master of Business Administration - Louisiana State University Shreveport
+* Bachelor of Business Administration Marketing - New Mexico State University
+
 
 <!--
 **MelanconR22/MelanconR22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
