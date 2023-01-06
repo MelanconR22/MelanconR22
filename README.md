@@ -3,10 +3,11 @@
 I am a recent graduate of a Data Analytics Bootcamp through the University of Kansas.  I am using this space to showcase the projects worked on during the bootcamp.  
 ## A little info about me:
 
-### :necktie: Looking for first role in Data Analytics </br>
+### :necktie: Ready to begin my Data Analytics adventure</br>
+:bar_chart: Data Storyteller </br>
 :golfing_man: PGA Certified Golf Professional </br>
 :house_with_garden: Mortgage Underwriter </br>
-:bar_chart: Data Storyteller
+
 
 ### 👨‍🎓Education:
 * Data Analytics Certificate - University of Kansas
